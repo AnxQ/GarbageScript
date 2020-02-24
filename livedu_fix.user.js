@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Livedu Fix
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
+// @updateURL    https://github.com/AnxQ/GarbageScript/raw/master/livedu_fix.user.js
 // @description  This platform is a piece of s**t.
 // @author       AnxQ
 // @match        http://www.livedu.com.cn/ispace4.0/*

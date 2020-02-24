@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         NJUST Chrome fix
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
+// @updateURL    https://github.com/AnxQ/GarbageScript/raw/master/nust_chrome_fix.user.js
 // @description  Living comfortably without anybody's help.
 // @author       AnxQ
 // @match        http://202.119.81.112:9080/*
