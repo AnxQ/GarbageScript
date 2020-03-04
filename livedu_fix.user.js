@@ -5,7 +5,7 @@
 // @updateURL    https://github.com/AnxQ/GarbageScript/raw/master/livedu_fix.user.js
 // @description  This platform is a piece of s**t.
 // @author       AnxQ
-// @match        http://www.livedu.com.cn/ispace4.0/*
+// @match        *://www.livedu.com.cn/ispace4.0/*
 // @grant        none
 // ==/UserScript==
 
